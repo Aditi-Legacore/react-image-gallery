@@ -5,7 +5,6 @@
 ##### npm install
 ##### npm run dev
 
-<img width="685" height="601" alt="image" src="https://github.com/user-attachments/assets/e7f43d21-f502-4041-a16f-e9166ea06407" />
 
-![Uploading image.png…]()
+<img width="1353" height="607" alt="image" src="https://github.com/user-attachments/assets/524f3f21-d598-496b-966a-0d2f4ebdc1ac" />
 
