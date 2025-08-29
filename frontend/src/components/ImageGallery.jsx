@@ -5,13 +5,12 @@ export default function ImageGallery() {
   const [selected, setSelected] = useState(null);
 
   useEffect(() => {
-    const sampleData = [
-      { id: 1, src: "https://picsum.photos/id/1015/600/400", thumb: "https://picsum.photos/id/1015/150/100", title: "Mountain" },
-      { id: 2, src: "https://picsum.photos/id/1016/600/400", thumb: "https://picsum.photos/id/1016/150/100", title: "River" },
-      { id: 3, src: "https://picsum.photos/id/1018/600/400", thumb: "https://picsum.photos/id/1018/150/100", title: "Forest" }
-    ];
-    setImages(sampleData);
-    setSelected(sampleData[0]); // default first image
+    fetch("/images.json")
+      .then(res => res.json())
+      .then(data => {
+        setImages(data);
+        setSelected(data[0]);
+      });
   }, []);
 
   return (

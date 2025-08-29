@@ -1,0 +1,5 @@
+[
+  { "id": 1, "src": "https://picsum.photos/id/1015/600/400", "thumb": "https://picsum.photos/id/1015/150/100", "title": "Mountain" },
+  { "id": 2, "src": "https://picsum.photos/id/1016/600/400", "thumb": "https://picsum.photos/id/1016/150/100", "title": "River" },
+  { "id": 3, "src": "https://picsum.photos/id/1018/600/400", "thumb": "https://picsum.photos/id/1018/150/100", "title": "Forest" }
+]
