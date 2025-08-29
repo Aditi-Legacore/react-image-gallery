@@ -1,5 +1,12 @@
 [
   { "id": 1, "src": "https://picsum.photos/id/1015/600/400", "thumb": "https://picsum.photos/id/1015/150/100", "title": "Mountain" },
   { "id": 2, "src": "https://picsum.photos/id/1016/600/400", "thumb": "https://picsum.photos/id/1016/150/100", "title": "River" },
-  { "id": 3, "src": "https://picsum.photos/id/1018/600/400", "thumb": "https://picsum.photos/id/1018/150/100", "title": "Forest" }
+  { "id": 3, "src": "https://picsum.photos/id/1018/600/400", "thumb": "https://picsum.photos/id/1018/150/100", "title": "Forest" },
+  { "id": 4, "src": "https://picsum.photos/id/1020/600/400", "thumb": "https://picsum.photos/id/1020/150/100", "title": "Desert" },
+  { "id": 5, "src": "https://picsum.photos/id/1024/600/400", "thumb": "https://picsum.photos/id/1024/150/100", "title": "Dog" },
+  { "id": 6, "src": "https://picsum.photos/id/1025/600/400", "thumb": "https://picsum.photos/id/1025/150/100", "title": "Beach" },
+  { "id": 7, "src": "https://picsum.photos/id/1031/600/400", "thumb": "https://picsum.photos/id/1031/150/100", "title": "Bridge" },
+  { "id": 8, "src": "https://picsum.photos/id/1033/600/400", "thumb": "https://picsum.photos/id/1033/150/100", "title": "Cityscape" },
+  { "id": 9, "src": "https://picsum.photos/id/1035/600/400", "thumb": "https://picsum.photos/id/1035/150/100", "title": "Ocean" },
+  { "id": 10, "src": "https://picsum.photos/id/1039/600/400", "thumb": "https://picsum.photos/id/1039/150/100", "title": "Snowy Mountain" }
 ]
